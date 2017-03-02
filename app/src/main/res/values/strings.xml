@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Button</string>
+
+    <string name="zerro">0</string>
+    <string name="text_notes">Notes</string>
+    <string name="text_profile">Profile</string>
+    <string name="btn_menu">Menu</string>
+    <string name="btn_notes">Notes</string>
+    <string name="btn_profile">Profile</string>
+    <string name="btn_back">Back</string>
+    <string name="topCharts">Top Charts</string>
+    <string name="img_country">country</string>
+</resources>
